@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/10 11:09:05.000.285,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/01/10 11:09:05.000.289,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/01/10 11:09:09.000.197,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2020/01/10 11:10:28.000.988,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\File1.cpp=C:\Users\NATHAN\Desktop\EXO C++ TEST\File1.cpp</Transaction>
+    <Transaction>2020/01/10 11:10:28.000.303,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\NATHAN\Desktop\EXO C++ TEST\Unit1.h</Transaction>
+    <Transaction>2020/01/10 11:10:28.000.303,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\NATHAN\Desktop\EXO C++ TEST\Unit1.cpp</Transaction>
+    <Transaction>2020/01/10 11:10:30.000.576,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\NATHAN\Desktop\EXO C++ TEST\Project1PCH1.h</Transaction>
+    <Transaction>2020/01/10 11:10:31.000.117,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\NATHAN\Desktop\EXO C++ TEST\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

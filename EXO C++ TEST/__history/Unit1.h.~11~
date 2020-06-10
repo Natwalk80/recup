@@ -1,0 +1,16 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#endif
+
+class Calcul
+{
+	private:
+	public:
+		void Initialise();
+		void Additionne();
+		void Multiplie();
+
+};

@@ -1,0 +1,24 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#else
+  typedef char _TCHAR;
+  #define _tmain main
+#endif
+
+#include <stdio.h>
+#include <iostream>
+#include "Unit1.h"
+
+ int _tmain(int argc, _TCHAR* argv[]) 
+{
+	Calcul calcul;
+	int x;
+	int y;
+	calcul.Initialise();
+
+	getchar();
+	return 0;
+}

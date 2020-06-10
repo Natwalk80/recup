@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/16 17:29:42.000.734,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/12/16 17:29:42.000.720,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/16 17:30:14.000.774,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\NATHAN\Desktop\DMX C++\DMX.cpp</Transaction>
+    <Transaction>2019/12/16 17:30:14.000.774,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\NATHAN\Desktop\DMX C++\DMX.dfm</Transaction>
+    <Transaction>2019/12/16 17:30:14.000.774,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\NATHAN\Desktop\DMX C++\DMX.h</Transaction>
+    <Transaction>2019/12/16 17:30:22.000.697,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\NATHAN\Desktop\DMX C++\Project1DMX1.h</Transaction>
+    <Transaction>2019/12/16 17:30:26.000.446,C:\Users\NATHAN\Desktop\DMX C++\Project1DMX1.h=C:\Users\NATHAN\Desktop\DMX C++\ProjectDMXPCH1.h</Transaction>
+    <Transaction>2019/12/16 17:30:26.000.461,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\NATHAN\Desktop\DMX C++\ProjectDMX.cbproj</Transaction>
+    <Transaction>2019/12/16 17:30:48.000.943,=C:\Users\NATHAN\Desktop\DMX C++\Include\_DasHard.h</Transaction>
+    <Transaction>2019/12/16 17:30:58.000.912,=C:\Users\NATHAN\Desktop\DMX C++\Win32\Debug\DasHard2006.dll</Transaction>
+  </Transactions>
+</BorlandProject>

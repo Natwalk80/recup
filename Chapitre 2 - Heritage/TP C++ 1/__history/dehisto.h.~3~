@@ -1,0 +1,19 @@
+//---------------------------------------------------------------------------
+
+#ifndef dehistoH
+#define dehistoH
+#include "de.h"
+//---------------------------------------------------------------------------
+#endif
+
+class dehisto:public de
+{
+	int tab[7];
+
+	public :
+
+		dehisto(); //CONSTRUCTEUR
+		void jet();
+		void jet(int n);
+
+};

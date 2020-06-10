@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/17 16:38:24.000.987,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/17 16:38:24.000.992,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2019/10/17 16:38:51.000.418,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/10/17 16:46:41.000.507,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\NATHAN\Desktop\RS232\Unit1.h</Transaction>
+    <Transaction>2019/10/17 16:46:41.000.507,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\NATHAN\Desktop\RS232\Unit1.cpp</Transaction>
+    <Transaction>2019/10/17 16:46:42.000.402,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\File1.cpp=C:\Users\NATHAN\Desktop\RS232\File1.cpp</Transaction>
+    <Transaction>2019/10/17 16:46:43.000.778,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\NATHAN\Desktop\RS232\Project1.cbproj</Transaction>
+    <Transaction>2019/10/17 16:46:43.000.047,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\NATHAN\Desktop\RS232\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

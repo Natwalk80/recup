@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/12/12 16:08:36.929,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/12 16:08:36.935,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2019/12/12 16:08:45.349,=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/12/12 16:08:56.204,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\string2.h=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2019/12/12 16:08:56.204,C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\string2.cpp=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/12/12 16:09:37.787,C:\Users\NATHAN\Desktop\TP5_C++\string2.cpp=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\string2.cpp</Transaction>
+    <Transaction>2019/12/12 16:09:37.787,C:\Users\NATHAN\Desktop\TP5_C++\string2.h=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\string2.h</Transaction>
+    <Transaction>2019/12/12 16:09:59.198,C:\Users\NATHAN\Desktop\TP5_C++\essai_s2.cpp=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2019/12/12 16:10:01.091,C:\Users\NATHAN\Desktop\TP5_C++\Project1PCH1.h=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/12 16:10:02.043,C:\Users\NATHAN\Desktop\TP5_C++\Project1.cbproj=C:\Users\NATHAN\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2019/12/12 16:44:33.119,C:\Users\NATHAN\Desktop\TP5_C++\essai_s2.cpp=</Transaction>
+    <Transaction>2019/12/12 16:44:38.628,=C:\Users\NATHAN\Desktop\TP5_C++\Unit1.cpp</Transaction>
+    <Transaction>2019/12/12 16:45:40.705,C:\Users\NATHAN\Desktop\TP5_C++\essai_s2.cpp=C:\Users\NATHAN\Desktop\TP5_C++\Unit1.cpp</Transaction>
+    <Transaction>2019/12/12 16:45:40.705,C:\Users\NATHAN\Desktop\TP5_C++\essai_s2.h=C:\Users\NATHAN\Desktop\TP5_C++\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
