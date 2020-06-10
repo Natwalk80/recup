@@ -1,0 +1,181 @@
+body{
+    background:DARKgrey;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+#admin{
+    width:80%;
+    margin:0 auto;
+    margin-top:2%;
+    margin-bottom: 2%;
+    border-radius:20;
+    font-family: sans-serif;
+}
+#tab{
+    width:80%;
+    margin:0 auto;
+    margin-top:1%;
+    margin-bottom: 2%;
+    border-radius:20;
+    border:1px;
+}
+#erreur404
+{
+    width : 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color:#343434;
+    font-family: "montserrat", sans-serif;
+}
+
+form {
+    width:50%;
+    padding: 1%;
+    border: 1px solid black;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 8%;
+    text-align: center;
+}
+
+
+input[type=text], input[type=password] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 0%;
+}
+
+/* Définir un style pour tous les boutons */
+.bouton {
+    font-size: 110%;
+    background-color: #ff3333;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 40%;
+    border-radius: 6%;
+}
+
+/*Défini un style pour les tableaux*/
+table {
+    border: medium solid #6495ed;
+    border-collapse: collapse;
+    width: 55%;
+}
+    
+th {
+    font-family: monospace;
+    border: thin solid #6495ed;
+    width: 65%;
+    padding: 5px;
+    background-color: #D0E3FA;
+    background-image: url(sky.jpg);
+}
+    
+td {
+    font-family: sans-serif;
+    border: thin solid #6495ed;
+    width: 40%;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+}   
+.Modif{
+    padding-bottom: 1%;
+    font-family: sans-serif;
+}
+    
+.button{
+    font-size: 110%;
+    background-color: green;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 40%;
+    border-radius: 6%;
+}
+
+/*--------------------------MENU-----------------------------*/
+nav {
+    padding:50px;
+    text-align:center;
+}
+nav ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+    display:inline-block;
+    background:#ddd;
+    border-radius:5px;
+}
+nav ul li {
+    float:left;
+    width:150px;
+    height:65px;
+    line-height:65px;
+    position:relative;
+    text-transform:uppercase;
+    font-size:14px;
+    color:rgba(0,0,0,0.7);
+    cursor:pointer;
+}
+nav ul li:hover {
+    background:#d5d5d5;
+    border-radius:5px;
+}
+
+ul.drop-menu {
+    position:absolute;
+    top:100%;
+    left:0%;
+    width:100%;
+    padding:0;
+}
+
+ul.drop-menu li {
+    background:#666;
+    color:rgba(255,255,255,0.7);
+}
+
+ul.drop-menu li:hover {
+    background:#606060;
+}
+
+ul.drop-menu li:last-child {
+    border-radius:0px 0px 5px 5px;
+}
+
+ul.drop-menu li {
+    display:none;
+}
+ul li:hover > ul.drop-menu li {
+    display:block;
+}
+
+
+li:hover > ul.drop-menu.menu-1 li {
+    perspective:1000px;
+    opacity:0;
+}
+
+@keyframes menu1 {
+    0% {
+        opacity:0;
+        transform:rotateY(-90deg) translateY(30px);
+    }
+    100% {
+        opacity:1;
+        transform:rotateY(0deg) translateY(30px);
+    }
+}

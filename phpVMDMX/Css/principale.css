@@ -1,0 +1,89 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color : white;
+}
+
+h1 {
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 48px;
+    
+    font-weight: lighter;
+}
+
+.nav{
+    background:	#DCDCDC;
+    height: 100vh;
+}
+
+.toggle-btn {
+    position: fixed;
+    margin: 1.4em;
+    padding: 1em;
+    width: 40px;
+    height: 12px;
+    right: 0;
+    z-index: 1;
+    cursor: pointer;
+}
+
+span.one {
+    position: absolute;
+    width: 65px;
+    height: 8px;
+    background: black;
+}
+
+span.two {
+    position: absolute;
+    width: 65px;
+    height: 8px;
+    background: black;
+    margin-top: 12px;
+}
+
+.menu {
+    z-index: 0;
+    position: fixed;
+    background:darkgray ;
+    height: 100vh;
+    width: 100%;
+    top: -100%;
+}
+
+.data {
+    padding: 8em 0 0 2em;
+    text-align: left;
+    text-decoration-color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+li:first-child {
+    color: grey;
+    font-family: Poppins;
+    font-size: 24px;
+    padding: 0.3%;
+}
+
+li:not(:first-child) {
+    color:white;
+    font-size: 42px;
+    padding: 0.5%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Poppins;
+}
